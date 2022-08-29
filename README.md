@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **onboarding**.
+- 💬 Ask me about **solar-powered, LED pinwheels**.
+- 😄 Pronouns: **she/her/they**
+- ⚡ Fun fact: **I'm a Triple R (Rachael Rose Renk)**.
