@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **onboarding**.
 - 💬 Ask me about **solar-powered, LED pinwheels**.
-- 😄 Pronouns: **she/her/hers**
-- ⚡ Fun fact: **I identify as a cowboy**.
+- 😄 Pronouns: **she/her/hers** (identifies as a cowboy)
+- ⚡ Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the night**.
