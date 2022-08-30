@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   -   *The State of Affairs* by Esther Perel
 - 💬 Ask me about **solar-powered, LED pinwheels** and **Plain Language**.
 - 🤠 Pronouns: **she/her/hers** (identifies as a cowboy)
-- ⚡ Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the night**.
+- ⚡ Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day*.
