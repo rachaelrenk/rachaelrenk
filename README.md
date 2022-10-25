@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   -   *Docs Like Code* by Anne Gentle
   -   *The State of Affairs* by Esther Perel
 - 💬 Ask me about **LED pinwheels** and **Plain Language**.
-- 🤠 Pronouns: **she/her/hers** (identifies as a cowboy)
+- 🤠 Pronouns: **she/her/dude** (identifies as a cowboy)
 - ⚡ Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day**.
