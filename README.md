@@ -1,5 +1,5 @@
 ### Hi! I'm Rachael 👋 :rainbow:
-
+Ambassador of joy first, technical writer second
 <!--
 **rachaelrenk/rachaelrenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **enterprise** and **code scanning and GHAS** focus area docs.
+- 🔭 I’m currently working on **enterprise** and **code scanning and GHAS** docs.
 - 📖 I'm currently reading...
   -   *TBD* (can you give me a recommendation?)
   -   *Docs Like Code* by Anne Gentle
