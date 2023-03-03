@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **enterprise** and **code scanning and GHAS** docs.
+- 🔭 I’m currently working on **enterprise** docs.
 - 📖 I'm currently reading...
   -   *TBD* (can you give me a recommendation?)
   -   *Docs Like Code* by Anne Gentle
   -   *The State of Affairs* by Esther Perel
+  -   *Luster* by Raven Leilani
 - 💬 Ask me about **cat glamour portraiture** and **Plain Language**.
 - 🤠 Pronouns: **she/her/dude**
 - ⚡ Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day**.
