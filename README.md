@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   -   *TBD* (can you give me a recommendation?)
   -   *Docs Like Code* by Anne Gentle
   -   *The State of Affairs* by Esther Perel
-  -   *The Mayor of MacDougal Street* by Dave Van Ronk
   -   *Vanishing Twins* by Leah Dieterich
 - Ask me about **cat glamour portraiture** and **Plain Language**. 💬
 - Pronouns: **she/her/dude** 🤠
