@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - I'm currently reading... 📖
   -   *TBD* (can you give me a recommendation?)
   -   *Docs Like Code* by Anne Gentle
-  -   *The State of Affairs* by Esther Perel
-  -   *Vanishing Twins* by Leah Dieterich
+  -   *The State of Affairs* by Esther Perel (paused because I lost my copy)
+  -   *All the Names They Used for God: Stories* by Anjali Sachdeva
 - Ask me about **cat glamour portraiture** and **Plain Language**. 💬
 - Pronouns: **she/her/dude** 🤠
 - Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day**. ⚡
