@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently working on **enterprise** docs. 🔭
-- Ask me about **cat glamour portraiture** and **Plain Language**. 💬
+- I write docs for **Drivers** 🚗
+- Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
-- Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day**. ⚡
+- Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day** ⚡
