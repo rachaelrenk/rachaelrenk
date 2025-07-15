@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I write docs for **Drivers** 🚗
+- Former Doctocat: from 2022 to 2025, I wrote and managed docs for GitHub Enterprise 🚗
 - Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
 - Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day** ⚡
