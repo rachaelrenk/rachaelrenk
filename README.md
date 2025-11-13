@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - Former Doctocat: from 2022 to 2025, I wrote and managed docs for GitHub Enterprise 🚗
 - Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
-- Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day** ⚡
+- Portfolio: **[rachaelrenk.github.io](https://rachaelrenk.github.io)**
+- - Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day** ⚡
