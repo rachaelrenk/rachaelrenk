@@ -1,5 +1,5 @@
 ### Hi! I'm Rachael 👋 :rainbow:
-Ambassador of joy first, technical writer second
+Ambassador of joy first, technical writer second. Other descriptors: communication nerd, user advocate, champion of the bees.
 <!--
 **rachaelrenk/rachaelrenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
