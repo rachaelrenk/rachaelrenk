@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
 - Portfolio: **[rachaelrenk.github.io](https://rachaelrenk.github.io)**
-- - Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day** ⚡
+- Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day** ⚡
