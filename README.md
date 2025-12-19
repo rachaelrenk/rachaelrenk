@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Former Doctocat: from 2022 to 2025, I wrote and managed docs for GitHub Enterprise 🚗
+- Former Doctocat: from 2022 to 2025, I wrote and managed the GitHub Enterprise documentation 🚗
 - Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
 - Portfolio: **[rachaelrenk.github.io](https://rachaelrenk.github.io)**
