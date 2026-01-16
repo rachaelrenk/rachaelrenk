@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- Technically writing for [Warp.dev](https://warp.dev) (check out the [docs](https://docs.warp.dev))
 - Former Doctocat: from 2022 to 2025, I wrote and managed the GitHub Enterprise documentation 🚗
 - Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
