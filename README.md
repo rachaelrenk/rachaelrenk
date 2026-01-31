@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Technically writing for [Warp.dev](https://warp.dev) (check out the [docs](https://docs.warp.dev))
-- Former Doctocat: from 2022 to 2025, I wrote and managed the GitHub Enterprise documentation 🚗
+- Former Doctocat: I wrote and managed the GitHub Enterprise docs from 2022-2025🚗
 - Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
 - Portfolio: **[rachaelrenk.github.io](https://rachaelrenk.github.io)**
