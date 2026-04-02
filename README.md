@@ -1,5 +1,5 @@
 ### Hi! I'm Rachael 👋 :rainbow:
-Ambassador of joy first, technical writer second. Other descriptors: communication nerd, user advocate, champion of the bees.
+Ambassador of joy, technical writer, systems builder, and user advocate.
 <!--
 **rachaelrenk/rachaelrenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Technically writing for [Warp.dev](https://warp.dev) (check out the [docs](https://docs.warp.dev))
-- Former Doctocat: I wrote and managed the GitHub Enterprise docs from 2022-2025🚗
+- Former Doctocat: I worked on GitHub Enterprise docs initiatives from 2022-2025 🚗
 - Ask me about **cat glamour portraiture** and **Plain Language** 💬
 - Pronouns: **she/her/dude** 🤠
 - Portfolio: **[rachaelrenk.github.io](https://rachaelrenk.github.io)**
