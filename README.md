@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Building a self-improving documentation software factory for [Warp.dev](https://warp.dev) (check out the [docs](https://docs.warp.dev))
+- Currently building a self-improving documentation software factory for [Warp.dev](https://warp.dev) (check out the [docs](https://docs.warp.dev))
 - Former Doctocat: I led enterprise documentation initatives for the GitHub Docs team from 2022-2025 🚗
 - Ask me about **cat glamour portraiture** and **content operating systems** 💬
 - Pronouns: **she/her/dude** 🤠
-- Portfolio: **[rachaelrenk.github.io](https://rachaelrenk.github.io)**
+- Website and portfolio: **[rachaelrenk.github.io](https://rachaelrenk.github.io)**
 - Fun fact: **Rachael enjoys the sound of the dishwasher gently swishing at the end of the day** ⚡
