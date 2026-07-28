@@ -1,5 +1,7 @@
 ### Hi! I'm Rachael 👋 :rainbow:
-Ambassador of joy and the professional formerly known as: technical writer. Other descriptors: context engineer, information architect, systems builder, content strategist, and user advocate.
+Ambassador of joy and the professional formerly known as "technical writer". 
+
+Other descriptors: context engineer, information architect, systems builder, content strategist, and user advocate.
 <!--
 **rachaelrenk/rachaelrenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
